@@ -48,7 +48,7 @@
     "@tarojs/plugin-doctor": "^0.0.13",
     "@tarojs/service": "workspace:*",
     "@tarojs/shared": "workspace:*",
-    "adm-zip": "^0.5.12",
+    "adm-zip": "^0.6.1",
     "axios": "^1.6.8",
     "cli-highlight": "^2.1.11",
     "download-git-repo": "^3.0.2",
