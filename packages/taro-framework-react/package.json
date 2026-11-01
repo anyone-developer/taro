@@ -45,7 +45,7 @@
     "@tarojs/service": "workspace:*",
     "@tarojs/taro": "workspace:*",
     "webpack-chain": "^6.5.1",
-    "vite": "^4.2.0"
+    "vite": "^6.4.5"
   },
   "peerDependencies": {
     "@tarojs/helper": "workspace:*",
